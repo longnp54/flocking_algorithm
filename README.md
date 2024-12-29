@@ -1,7 +1,11 @@
-# Flocking Algorithm Robot System (Based on YouTube Reference)
+# Flocking Algorithm Robot System
 
 ## Introduction
 This robot flocking system utilizes the **flocking algorithm** to simulate the movement of robots in a group. It uses principles such as **Separation**, **Alignment**, and **Cohesion** to create natural group behavior. The system runs in a web browser using **JavaScript**, **CSS**, and **HTML**. For more in-depth understanding, this project is based on concepts from the video:
+
+## Demo
+
+You can view the project in action through the **[video demo](https://drive.google.com/drive/folders/1B85deOdz3ShP1tNGiMeTakf3MvgRbyU7?usp=drive_link)**.
 
 ### Reference
 **[1]** M. D. Bogue, "Flocking Algorithm Tutorial for Robots," *YouTube*, Apr. 19, 2020. [Online]. Available: https://www.youtube.com/watch?v=mhjuuHl6qHM&t=2119s. [Accessed: Dec. 29, 2024].
@@ -36,9 +40,6 @@ The algorithm models the behavior of robots based on three key principles:
 2. **Run the System**:
    - Open `index.html` in any web browser to view and interact with the system.
 
-## Demo
-
-You can view the project in action through the **[video demo](https://drive.google.com/drive/folders/1B85deOdz3ShP1tNGiMeTakf3MvgRbyU7?usp=drive_link)**.
 
 ## Results
 
