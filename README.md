@@ -1,3 +1,7 @@
+Dưới đây là phiên bản hoàn chỉnh với phần hiển thị ảnh kết quả và link demo:
+
+---
+
 # Flocking Algorithm Robot System (Based on YouTube Reference)
 
 ## Introduction
