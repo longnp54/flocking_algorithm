@@ -1,3 +1,7 @@
+Dưới đây là phiên bản hoàn chỉnh với phần hiển thị ảnh kết quả và link demo:
+
+---
+
 # Flocking Algorithm Robot System (Based on YouTube Reference)
 
 ## Introduction
@@ -30,3 +34,24 @@ The algorithm models the behavior of robots based on three key principles:
    Clone the repository from GitHub:
    ```bash
    git clone https://github.com/longnp54/flocking_algorithm.git
+   cd flocking_algorithm
+   ```
+
+2. **Run the System**:
+   - Open `index.html` in any web browser to view and interact with the system.
+
+## Demo
+
+You can view the project in action through the **[video demo](https://drive.google.com/drive/folders/1B85deOdz3ShP1tNGiMeTakf3MvgRbyU7?usp=drive_link)**.
+
+## Results
+
+### Screenshot of the Simulation
+
+Below is a screenshot showcasing the simulation in action, where robots adjust their movement based on the flocking algorithm principles:
+
+![Flocking Algorithm Simulation](images/result.png)
+
+---
+
+Feel free to explore the code, experiment with parameters, or integrate the flocking algorithm into your own robotic projects!
